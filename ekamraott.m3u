@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EKMBCS_Thumbnail-v1/EKMBCS_Thumbnail.png" group-title="Movies",Baiscope TV
+https://live.ekamraott.com/baiscope/baiscope/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png" group-title="News",Ekamra Bharat Odia
+https://live.ekamraott.com/bharat/bharat/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png" group-title="Movies",Ekamra Cinema
+https://live.ekamraott.com/cynema/cynema/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Manoranjan.png" group-title="Entertainment",Ekamra Manoranjan
+https://live.ekamraott.com/manoranjan/manoranjan/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png" group-title="Music",Ekamra Musiq
+https://live.ekamraott.com/musiq/musiq/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png" group-title="Entertainment",Ekamra Nilach Akra
+https://live.ekamraott.com/nilachakra/nilachakra/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png" group-title="Devotional",Ekamra Paramatma
+https://live.ekamraott.com/paramatma/paramatma/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" group-title="Entertainment",Jatra Ekamra
+https://live.ekamraott.com/jatra/jatra/index.m3u8
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png" group-title="Entertainment",One Paschima
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Rang Rangoli
+https://live.ekamraott.com/rr/rr/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Devotional",Sai Ekamra
+https://live.ekamraott.com/da/da/video.m3u8
