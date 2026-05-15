@@ -28,5 +28,5 @@ for region in regioncodes:
 
     g.close()
     xml = pathlib.Path(f"samsung_{region}.xml")
-    xml.Path.unlink()
+    xml.unlink()
 
