@@ -70,7 +70,7 @@ for i in jsonresp['response']['data']:
     else:
         playlist.append('')
 
-with open('./yupptv.m3u', 'w', newline='') as f:
+with open('./yupptvfast.m3u', 'w', newline='') as f:
     for lines in playlist:
         f.write(f'{lines}\n')
 
