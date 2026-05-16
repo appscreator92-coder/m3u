@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="100" tvg-id="ent-channel" tvg-name="ENT Channel" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entretenimiento",ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="ent-family" tvg-name="ENT Family" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Entretenimiento",ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="totalmusic" tvg-name="Totalmusic" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Musical",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="totalmusic-80s" tvg-name="Totalmusic 80s" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Musical",Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="120" tvg-id="totalmusic-00s" tvg-name="Totalmusic 2000s" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="Musical",Totalmusic 2000s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-id="totalmusic-concerts" tvg-name="Totalmusic Concerts" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Musical",Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="130" tvg-id="totalmusic-dance" tvg-name="Totalmusic Dance" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="Musical",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-id="energeek-radio" tvg-name="EnerGeek Radio" tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-radio-new.png" group-title="Radio",EnerGeek Radio
+https://cdn.energeek.cl/hls/energeekradio.m3u8
+#EXTINF:-1 tvg-chno="140" tvg-id="energeek-fan" tvg-name="EnerGeek Fan" tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Entretenimiento",EnerGeek Fan
+https://cdn.energeek.cl/hls/energeekfan.m3u8
+#EXTINF:-1 tvg-chno="141" tvg-id="energeek-retro" tvg-name="EnerGeek Retro" tvg-logo="https://neotv.energeek.cl/assets/img/channels/energeek-c1.png" group-title="Retro",EnerGeek Retro
+https://cdn.energeek.cl/hls/energeekretro.m3u8
+#EXTINF:-1 tvg-chno="144" tvg-id="max-anime" tvg-name="Max Anime" tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime",Max Anime
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="145" tvg-id="pridetv-lat" tvg-name="PRIDEtv Latam" tvg-logo="https://neotv.energeek.cl/assets/img/channels/pridetv-lat.png" group-title="Entretenimiento",PRIDEtv Latam
+https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
+#EXTINF:-1 tvg-chno="146" tvg-id="lanco-tv" tvg-name="Lanco Television" tvg-logo="https://neotv.energeek.cl/assets/img/channels/lanco-television.png" group-title="Regional",Lanco Television
+https://5e3483cba9114.streamlock.net:443/hfvhxfwxjm/hfvhxfwxjm/playlist.m3u8
+#EXTINF:-1 tvg-chno="147" tvg-id="moni-tv" tvg-name="Moni TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/monitv.png" group-title="Entretenimiento",Moni TV
+https://tv.arkeo.cl:19360/8134/8134.m3u8
+#EXTINF:-1 tvg-chno="148" tvg-id="zyoon-tv" tvg-name="Zyoon TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Entretenimiento",Zyoon TV
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+#EXTINF:-1 tvg-chno="149" tvg-id="spark" tvg-name="Spark" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/spark/spark.png" group-title="Entretenimiento",Spark
+https://cdn.global.elektamedia.com/live/c4eds/Spark/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="151" tvg-id="zenith" tvg-name="zén!th" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/47ea3d62-23e6-430d-8aa0-6d9dd21493ec/channel-icon/2026/04/07/1775522494799-jp2quj-zenith.png" group-title="Regional",zén!th
+https://live.azenagroup.com/zenith/index-1767225600-now.ll.m3u8
+#EXTINF:-1 tvg-chno="152" tvg-id="telemas-salvador" tvg-name="TL+" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/51b63550-8da5-41c0-a22b-7cf6324e8aeb/channel-icon/2026/03/08/1773000093297-kyp1tw-tlmaslogo.png" group-title="Entretenimiento",TL+
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="153" tvg-id="telemas-sv-santa-ana" tvg-name="TL+ Santa Ana" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/a3505eb4-dd18-4e9a-a06f-121c6317dc80/channel-icon/2026/03/08/1773008328214-m22o95-tlmas_santa_ana.png" group-title="Entretenimiento",TL+ Santa Ana
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="154" tvg-id="primired" tvg-name="Primired" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/96f47b4f-6559-4b01-b3cb-4e5ea5d3ae36/channel-icon/2026/03/23/1774305986670-qtfeqq-primired.png" group-title="Entretenimiento",Primired
+https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="156" tvg-id="onr" tvg-name="ONR" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/674f24d0-eafa-4b3c-824f-653f83d9ad64/channel-icon/2026/04/06/1775516992077-zglgon-icon2.png" group-title="Entretenimiento",ONR
+https://cdn.global.elektamedia.com/live/c7eds/ONR/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="157" tvg-id="fantasia-tv" tvg-name="Fantasia TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/fantasia-tv.png" group-title="Radio",Fantasia TV
+https://v2.tustreaming.cl/fantasiatv/index.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-id="vconline" tvg-name="VCONLINE" tvg-logo="https://neotv.energeek.cl/assets/img/channels/vconline.png" group-title="Entretenimiento",VCONLINE
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-id="sportmax" tvg-name="SportMax" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/ef4cd7cc-89a7-499e-9c04-49249d56db9f/channel-icon/2026/03/23/1774306183054-uhirfw-favicon-1.png" group-title="Deportes",SportMax
+https://cdn.global.elektamedia.com/live/c7eds/SportMax_AR_Feed1/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="mas-cine" tvg-name="+ Cine" tvg-logo="https://neotv.energeek.cl/assets/img/channels/mascine.png" group-title="Cine",+ Cine
+https://tv.arkeo.cl:19360/8128/8128.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="maulevision" tvg-name="Maulevision" tvg-logo="https://neotv.energeek.cl/assets/img/channels/maulevision.png" group-title="Regional",Maulevision
+https://v2.tustreaming.cl/maulevisiontv/index.m3u8
+#EXTINF:-1 tvg-chno="215" tvg-id="dreiko-tv" tvg-name="Dreiko TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/dreikotv.png" group-title="Entretenimiento",Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1 tvg-chno="215" tvg-id="punto-99" tvg-name="Punto 99" tvg-logo="https://neotv.energeek.cl/assets/img/channels/punto-99.png" group-title="Entretenimiento",Punto 99
+https://stmv5.voxtvhd.com.br/tvcoolretro/tvcoolretro/playlist.m3u8
+#EXTINF:-1 tvg-chno="220" tvg-id="ruidos-tv" tvg-name="Ruidos TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/ruidostv.png" group-title="Radio",Ruidos TV
+https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
+#EXTINF:-1 tvg-chno="220" tvg-id="tvo-san-vicente" tvg-name="TVO San Vicente" tvg-logo="https://neotv.energeek.cl/assets/img/channels/tvo-nuevo.png" group-title="Regional",TVO San Vicente
+https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-chno="225" tvg-id="parentesis-tv" tvg-name="Parentesis TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/parentesis-tv-2.png" group-title="Musical",Parentesis TV
+https://freya.mivideo.pro/parentesistv/index.m3u8
+#EXTINF:-1 tvg-chno="225" tvg-id="varied-tv" tvg-name="Varied TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/variedtv.png" group-title="Entretenimiento",Varied TV
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
+#EXTINF:-1 tvg-chno="230" tvg-id="caracola-tv" tvg-name="Caracola TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/caracola-tv.png" group-title="Regional",Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="230" tvg-id="sur-tv" tvg-name="Sur TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/surtv.png" group-title="Regional",Sur TV
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="235" tvg-id="suyai-tv" tvg-name="Suyai Television" tvg-logo="https://neotv.energeek.cl/assets/img/channels/suyai-tv-2.png" group-title="Cultural",Suyai Television
+https://signal.suyaitv.cl/live/36/playlist.m3u8?username=ZZNeotvCL&password=Ae2mWShURN
+#EXTINF:-1 tvg-chno="235" tvg-id="vision-plus-tv" tvg-name="Vision Plus TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/vision-plus-tv.png" group-title="Regional",Vision Plus TV
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
+#EXTINF:-1 tvg-chno="240" tvg-id="autonoma-tv" tvg-name="Autonoma TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/autonoma-tv.png" group-title="Regional",Autonoma TV
+https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="260" tvg-id="canal-lms" tvg-name="Canal LMS" tvg-logo="https://neotv.energeek.cl/assets/img/channels/lms.png" group-title="Entretenimiento",Canal LMS
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
+#EXTINF:-1 tvg-chno="280" tvg-id="canal-2-quellon" tvg-name="Canal 2 Quellon" tvg-logo="https://neotv.energeek.cl/assets/img/channels/canal-2-quellon.png" group-title="Regional",Canal 2 Quellon
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="300" tvg-id="canal-5-arg" tvg-name="Canal 5 del Pueblo" tvg-logo="https://neotv.energeek.cl/assets/img/channels/canal-5-arg.png" group-title="Internacional",Canal 5 del Pueblo
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-chno="305" tvg-id="emanuel7-tv" tvg-name="Emanuel7 TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/emanuel7-tv.png" group-title="Internacional",Emanuel7 TV
+https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8
+#EXTINF:-1 tvg-chno="325" tvg-id="lrp-television" tvg-name="LRP Television" tvg-logo="https://neotv.energeek.cl/assets/img/channels/lrptv.png" group-title="Entretenimiento",LRP Television
+https://v2.tustreaming.cl/lrp/index.m3u8
+#EXTINF:-1 tvg-chno="330" tvg-id="voiceover-radiotv" tvg-name="Voice Over Radio TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/voiceOver-radiotv.png" group-title="Internacional",Voice Over Radio TV
+https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
+#EXTINF:-1 tvg-chno="345" tvg-id="mas-fm" tvg-name="Mas FM" tvg-logo="https://neotv.energeek.cl/assets/img/channels/mas-fm.png" group-title="Radio",Mas FM
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1 tvg-chno="350" tvg-id="sicardi-tv" tvg-name="Sicardi TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/sicardi-tv.png" group-title="Internacional",Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-chno="370" tvg-id="planetatv" tvg-name="PlanetaTV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/planetaTV-music.png" group-title="Musical",PlanetaTV
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="375" tvg-id="magic-kids" tvg-name="Magic Kids" tvg-logo="https://magickids.site/favicon.ico" group-title="Retro",Magic Kids
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
+#EXTINF:-1 tvg-chno="380" tvg-id="clicktv" tvg-name="ClickTV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/clicktv.png" group-title="Entretenimiento",ClickTV
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-1 tvg-chno="385" tvg-id="canal-2-san-antonio" tvg-name="Canal 2 San Antonio" tvg-logo="https://neotv.energeek.cl/assets/img/channels/canal-2-san-antonio.png" group-title="Regional",Canal 2 San Antonio
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="405" tvg-id="telemax" tvg-name="TeleMAX" tvg-logo="https://neotv.energeek.cl/assets/img/channels/telemax.png" group-title="Internacional",TeleMAX
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-chno="415" tvg-id="la-granja-tv" tvg-name="La Granja TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/la-granja-tv.png" group-title="Regional",La Granja TV
+https://oracle.streaminghd.cl/8126/8126/index.m3u8
+#EXTINF:-1 tvg-chno="420" tvg-id="pichilemu-tv" tvg-name="Pichilemu TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/pichilemu-tv.png" group-title="Regional",Pichilemu TV
+https://5ff3d9babae13.streamlock.net/8028/8028/index.m3u8
+#EXTINF:-1 tvg-chno="425" tvg-id="supersonika-fm" tvg-name="SuperSonika FM" tvg-logo="https://neotv.energeek.cl/assets/img/channels/supersonika.png" group-title="Radio",SuperSonika FM
+https://unlimited2-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="430" tvg-id="santa-maria-tv" tvg-name="Santa Maria TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/santa-maria-tv.png" group-title="Regional",Santa Maria TV
+https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="435" tvg-id="net-tv" tvg-name="Net TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/net-tv.png" group-title="Regional",Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="440" tvg-id="estacion-tv" tvg-name="Estacion TV" tvg-logo="https://neotv.energeek.cl/assets/img/channels/estacion-tv.svg" group-title="Regional",Estacion TV
+https://v4.tustreaming.cl/limachemovil/playlist.m3u8
+#EXTINF:-1 tvg-chno="445" tvg-id="ucv-television" tvg-name="UCV Television" tvg-logo="https://neotv.energeek.cl/assets/img/channels/ucv-television.png" group-title="Educativo",UCV Television
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-chno="450" tvg-id="ucv-eventos" tvg-name="UCV Eventos" tvg-logo="https://neotv.energeek.cl/assets/img/channels/ucv-television.png" group-title="Educativo",UCV Eventos
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="455" tvg-id="neotv-digital" tvg-name="NeoTV Digital" tvg-logo="https://neotv.energeek.cl/assets/img/channels/neotv-digital.png" group-title="Internacional",NeoTV Digital
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-chno="460" tvg-id="next-hd" tvg-name="Next HD" tvg-logo="https://neotv.energeek.cl/assets/img/channels/next-hd-2.png" group-title="Internacional",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-chno="485" tvg-id="americatv-chile" tvg-name="AmericaTV Chile" tvg-logo="https://neotv.energeek.cl/assets/img/channels/americatv-chile.png" group-title="Radio",AmericaTV Chile
+https://v2.tustreaming.cl/radioamericatv/index.m3u8
+#EXTINF:-1 tvg-chno="495" tvg-id="contivision" tvg-name="Contivision" tvg-logo="https://neotv.energeek.cl/assets/img/channels/contivision.png" group-title="Regional",Contivision
+https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
