@@ -2228,7 +2228,7 @@ http://103.159.180.34:5001/live/3261.m3u8
 #EXTINF:-1 tvg-id="3265" tvg-name="Nation World News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nation_Star_News.png" tvg-language="Hindi" group-title="News", Nation World News
 http://103.159.180.34:5001/live/3265.m3u8
 #EXTINF:-1 tvg-id="3266" tvg-name="Vijay Super HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Super_HD.png" tvg-language="Tamil" group-title="Movies", Vijay Super HD
-http://149.71.34.166:8000/play/a06i/index.m3u8
+http://149.71.34.166:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="3267" tvg-name="Star Kiran" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Kiran.png" tvg-language="Odia" group-title="Entertainment", Star Kiran
 http://103.159.180.34:5001/live/3267.m3u8
 #EXTINF:-1 tvg-id="3268" tvg-name="Nation NE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nation_NE.png" tvg-language="Assamese" group-title="News", Nation NE
