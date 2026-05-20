@@ -13,7 +13,7 @@ channel_data = json.loads(stringdata)
 ids = channel_data.keys()
 names=[]
 logos=[]
-epgid=[]
+epgids=[]
 
 for i in ids:
     name = channel_data[i]['title']
