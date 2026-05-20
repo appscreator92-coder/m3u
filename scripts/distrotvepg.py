@@ -11,6 +11,9 @@ jsonresp = resp.json()
 stringdata = json.dumps(jsonresp['shows'], indent=4)
 channel_data = json.loads(stringdata)
 ids = channel_data.keys()
+names=[]
+logos=[]
+epgid=[]
 
 for i in ids:
     name = channel_data[i]['title']
