@@ -23,8 +23,12 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_eel_ch.flv
 https://stream-cdn-iad3.vaughnsoft.net/play/live_tnhb_.flv
 #EXTINF:-1 tvg-id="spark" tvg-name="Spark" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/spark/spark.png" group-title="webchnl",Spark
 https://cdn.global.elektamedia.com/live/c4eds/Spark/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="spark" tvg-name="Spark" tvg-logo="https://webchnl.com/assets/img/channelicons/spark.png" group-title="webchnl",Spark (nive.live)
+https://mci01.nive.live/11/index.m3u8
 #EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="webchnl",Animax_NA
 https://animax.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="animax" tvg-name="Animax_NA" tvg-logo="https://animax.live/logo?random=65" group-title="webchnl",Animax_NA (nive.live)
+https://mci01.nive.live/13/index.m3u8
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:http-reconnect=true
 #EXTINF:-1 tvg-id="wlfm" tvg-name="Whiplash FM" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashfm.png" group-title="webchnl" radio="true",Whiplash FM
