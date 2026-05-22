@@ -14,7 +14,7 @@ for i in resp['data']['items']:
             epg = channel_data['epg'].replace('https://epg.neotvapp.com/','').replace('.xml','').replace('%20',' ').replace('%26', '&amp;')
         elif "oli" in channel_data['epg']:
             epg = "OLI TV"
-        elif "https://api.bongo-solutions.com/roster/EpgXml?channel=bongo-movies&days=1":
+        elif "https://api.bongo-solutions.com/roster/EpgXml?channel=bongo-movies&days=1 in channel_data['epg']":
             epg = "Bongo Movies"
     else:
         epg = ""
