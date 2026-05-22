@@ -19,10 +19,10 @@ logos = []
 for i in resp['data']['items']:
     stringdata = json.dumps(i, indent=4)
     channel_data = json.loads(stringdata)
-    if channel_data['epg'] != None and ".php" not in channel_data['epg']:
-        epg = channel_data['epg']
-    elif ".php" in channel_data['epg'] and channel_data['epg'] != None:
-        if "oli" in channel_data['epg']:
+    if channel_data['epg'] != None:
+        if ".php" not in channel_data['epg']:
+            epg = channel_data['epg']
+        elif "oli" in channel_data['epg']:
             epg = channel_data['epg']
         else:
             epg = ""
