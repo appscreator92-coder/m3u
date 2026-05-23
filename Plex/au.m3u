@@ -157,6 +157,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-64d2c6acb18b113e0c61012a.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-67884bd6d37f2fd48d6220db.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6674baf1a9c715b93ca6ca90" tvg-name="Unspeakable" tvg-logo="https://provider-static.plex.tv/epg/cms/production/557e2a37-20f0-4e1f-8dc5-b99cbebaa33e/FilmRise_Unspeakable_Color_LogoRDX.png",Unspeakable
 https://jmp2.uk/plex-697140a85d851f5e69414688-6674baf1a9c715b93ca6ca90.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-68db6b54475aa6420c85f230" tvg-name="FilmRise Creators" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf7b3f7d-f3d7-49e7-a2f6-f81ab380f737/FilmRise_Creators_1500x1000_Dark_Logo.png",FilmRise Creators
+https://jmp2.uk/plex-697140a85d851f5e69414688-68db6b54475aa6420c85f230.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-673d23e6d2bcb259fd6b29ae" tvg-name="Sparkle Movies - Light & Love" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bac5ad0a-1937-41a7-adb7-03936d73e9fa/SparkleMovies_Logo_White_Scott_WiscombeRDX_Color.png",Sparkle Movies - Light & Love
 https://jmp2.uk/plex-697140a85d851f5e69414688-673d23e6d2bcb259fd6b29ae.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-636d5aa3dc2c550b145ed422" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png",Degrassi
@@ -295,8 +297,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-66be955c8711311880995282.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-68c98e7460586565cc56baab.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-68e0388d8bbd79d66c631ab4" tvg-name="Preston & Brianna" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a494aee0-92e2-42bf-887e-7facb9a94d59/FilmRise_PrestonAndBrianna_Logo_Color.png",Preston & Brianna
 https://jmp2.uk/plex-697140a85d851f5e69414688-68e0388d8bbd79d66c631ab4.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-68db6b54475aa6420c85f230" tvg-name="FilmRise Creators" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf7b3f7d-f3d7-49e7-a2f6-f81ab380f737/FilmRise_Creators_1500x1000_Dark_Logo.png",FilmRise Creators
-https://jmp2.uk/plex-697140a85d851f5e69414688-68db6b54475aa6420c85f230.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-66bfb2e6144c201b8b61c10f" tvg-name="NewsWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png",NewsWorld
 https://jmp2.uk/plex-697140a85d851f5e69414688-66bfb2e6144c201b8b61c10f.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-60089d90f682a3002c348299" tvg-name="Euronews" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png",Euronews

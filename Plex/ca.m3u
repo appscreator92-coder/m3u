@@ -151,6 +151,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6348b2cb1159f6a5ce819b89.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6348adc71159f6a5ce819b85.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c4" tvg-name="FilmRise Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b050a3ca-7e33-401b-a4ec-bb0cdd941aa4/FilmRise_Action_1500x1000_Light_Logo.png",FilmRise Action
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c4.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a082f488-9d7e-4e89-be52-4b7e5c8d91d3/FilmRise_SciFi_1500x1000_Light_Logo.png",FilmRise Sci-Fi
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-67c2496d45ae99120c071588" tvg-name="Life Down Under" tvg-logo="https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png",Life Down Under
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67c2496d45ae99120c071588.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6467891c73e5e029428f0e16" tvg-name="American Crimes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5b694d82-7b61-49a2-a28e-95b07d8105ac/american-crimes-fclogo-White.png",American Crimes
@@ -333,8 +335,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68017ed20268b77d02a5f4bd.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154" tvg-name="Adventure Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a5f2eb3-3df9-4ef7-af45-56ef0f7f44dd/Adventure_Earth_ChannelLogo_White_1500x1000_Tilman.png",Adventure Earth
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a082f488-9d7e-4e89-be52-4b7e5c8d91d3/FilmRise_SciFi_1500x1000_Light_Logo.png",FilmRise Sci-Fi
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-614398a08f30fa61e0da7c97" tvg-name="True History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png",True History
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-614398a08f30fa61e0da7c97.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-684c201a3496598cf4003fbc" tvg-name="PBS Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7498e884-3fc2-42a7-813d-8294e2ff22a6/PBS_Travel_Logo_Stacked_BLUEWhiteRDX.png",PBS Travel
