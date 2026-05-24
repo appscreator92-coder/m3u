@@ -19,7 +19,7 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_eel_ch.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:http-reconnect=true
-#EXTINF:-1 tvg-id="toon_d" tvg-name="Toon Disney Again" tvg-logo="https://cdn.vaughnsoft.net/profile/1778725807/tnhb_.jpg" group-title="webchnl",Toon Disney Again
+#EXTINF:-1 tvg-id="toon_d" tvg-name="Toon Disney Again" tvg-logo="https://cdn.vaughnsoft.net/profile/1778725807/tnhb_.jpg" group-title="webchnl",Toon Disney
 https://stream-cdn-iad3.vaughnsoft.net/play/live_tnhb_.flv
 #EXTINF:-1 tvg-id="spark" tvg-name="Spark" tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/spark/spark.png" group-title="webchnl",Spark
 https://cdn.global.elektamedia.com/live/c4eds/Spark/SA_LIVE_hls_enc/master.m3u8
