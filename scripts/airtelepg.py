@@ -10,7 +10,7 @@ root.set('generator-info-url', 'https://github.com/amazeyourself')
 
 
 t = date.today()
-startEpoch = int(datetime(t.year, t.month, t.day - 1, 12, 0, 0).timestamp() * 1000)
+startEpoch = int(datetime(t.year, t.month, t.day, 12, 0, 0).timestamp() * 1000)
 endEpoch = int(datetime(t.year, t.month, t.day + 2, 12, 0, 0).timestamp() * 1000)
 
 resp = urllib3.request("GET",
