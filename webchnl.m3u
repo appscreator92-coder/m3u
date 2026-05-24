@@ -48,6 +48,8 @@ https://mci01.nive.live/18/index.m3u8
 #EXTINF:-1 tvg-id="kaspertv" tvg-name="KasperTV" tvg-logo="https://webchnl.com/assets/img/channelicons/kaspertv.png" group-title="webchnl",KasperTV
 https://twitch-m3u8.bastypro112.workers.dev/kaspertivi/index.m3u8
 #EXTINF:-1 tvg-id="placid" tvg-name="Placid" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/Placid.png" group-title="webchnl",Placid
+https://haus.webchnl.com/placid/index.m3u8
+#EXTINF:-1 tvg-id="placid" tvg-name="Placid" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/Placid.png" group-title="webchnl",Placid (vcdn.fyi)
 https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="cnextras" tvg-name="CN/Toonami Extras" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/cnextras.png" group-title="webchnl",CN/Toonami Extras
 https://twitch-m3u8.bastypro112.workers.dev/backupextras/index.m3u8
