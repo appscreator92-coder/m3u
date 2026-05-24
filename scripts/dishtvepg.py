@@ -13,7 +13,6 @@ encoded_body = json.dumps({
     "language": "",
     "allowPastEvents": "true",
     "dataSize": "large",
-    "pageNum": "1",
     "date": datetime.now().strftime("%d/%m/%Y")
 })
 resp = urllib3.request("POST",
