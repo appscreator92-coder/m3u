@@ -37,7 +37,7 @@ for i in range(1, 106):
     channellist = test.json()['programDetailsByChannel']
     while channellist == []:
           test = urllib3.request("POST",
-                             f"https://www.dishtv.in/services/epg/channels?pageNum={num}&date={date}",
+                             f"https://www.dishtv.in/services/epg/channels?pageNum={i}&date={date}",
                              body=encoded_body,
                              headers={"Authorization-Token": token,
                                       "Content-Type": "multipart/form-data; boundary=----WebKitFormBoundaryqdpVYTfDycoyAdQG",
