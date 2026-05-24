@@ -8,13 +8,6 @@ root = ET.Element('tv')
 root.set('generator-info-url', 'https://github.com/amazeyourself')
 
 date = datetime.now().strftime("%d/%m/%Y")
-encoded_body = json.dumps({
-    "channelgenre": "",
-    "language": "",
-    "allowPastEvents": "true",
-    "dataSize": "large",
-    "date": datetime.now().strftime("%d/%m/%Y")
-})
 resp = urllib3.request("POST",
                        "https://www.dishtv.in/services/epg/signin")
 
@@ -24,6 +17,14 @@ token_data = resp.json()
 token = token_data['token']
 
 for i in range(1, 106):
+    encoded_body = json.dumps({
+        "channelgenre": "",
+        "language": "",
+        "allowPastEvents": "true",
+        "dataSize": "large",
+        "pageNum": i
+        "date": datetime.now().strftime("%d/%m/%Y")
+    })
     test = http.request("POST",
                         f"https://www.dishtv.in/services/epg/channels?pageNum={i}&date={date}",
                         body=encoded_body,
