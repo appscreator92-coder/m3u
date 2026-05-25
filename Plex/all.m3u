@@ -141,6 +141,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5816.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-689fb59eba3be0bafe349d35.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68db6bc5475aa6420c85f232" tvg-name="FilmRise Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bad201f1-05cd-4d1f-be26-3193c343cca2/FilmRise_Drama_1500x1000_Dark_Logo.png",FilmRise Drama
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68db6bc5475aa6420c85f232.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6674b983f04cf4bb9233c91b" tvg-name="The Doctor Blake Mysteries" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5b46a424-7ff6-4de9-847c-e8a69f6064ef/FilmRise_DoctorBlakeMysteries_Logo_ColorRDX2.png",The Doctor Blake Mysteries
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6674b983f04cf4bb9233c91b.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64704954e536e0faaf10be9f" tvg-name="Just For Laughs Gags" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png",Just For Laughs Gags
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64704954e536e0faaf10be9f.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-628bb0eafcb403aa62d2317d" tvg-name="ALLBLK Gems" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a77f4694-abfd-404f-9b6c-913c1f307cc6/allblkGEMS.png",ALLBLK Gems
@@ -157,8 +159,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64f0d3ddc2bc9b9001d46ea4.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-670858335b42d01c9391e325" tvg-name="The Kids in the Hall" tvg-logo="https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png",The Kids in the Hall
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-670858335b42d01c9391e325.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" tvg-name="FilmRise Comedy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/91ac7a3c-8224-439f-83e9-f6c37eb186da/FilmRise_Comedy_1500x1000_Dark_Logo.png",FilmRise Comedy
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68161fa001a9a5584ff27e96" tvg-name="Ancient Aliens" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2fe1556a-c271-46cb-927f-935263f2491c/AncientAliensGM_channel_logo_WHite_RDX.png",Ancient Aliens
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68161fa001a9a5584ff27e96.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2" tvg-name="MGM Presents" tvg-logo="https://provider-static.plex.tv/epg/cms/production/306c74d7-5ff7-4067-b921-a1b6c86efbfa/MGMPresents_logo_dark_-_Carl_HoffelderRDX.png",MGM Presents
@@ -185,8 +185,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-69d93e13a5c870fb1e88f873.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4eddbb2fdec002c141133" tvg-name="MST3K" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mst3k_logo_dark.png",MST3K
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4eddbb2fdec002c141133.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6674b983f04cf4bb9233c91b" tvg-name="The Doctor Blake Mysteries" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5b46a424-7ff6-4de9-847c-e8a69f6064ef/FilmRise_DoctorBlakeMysteries_Logo_ColorRDX2.png",The Doctor Blake Mysteries
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6674b983f04cf4bb9233c91b.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6674b780f04cf4bb9233c918" tvg-name="Prime Suspect" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b5f799b0-c898-42ad-b8d6-d7053640991d/FilmRise_PrimeSuspect_Logo_WhiteRDX.png",Prime Suspect
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6674b780f04cf4bb9233c918.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-684059c5f36ba25bbd7fb81d" tvg-name="Love After Lockup We TV" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/523ba8f27e7a00c542f555eee93ddbb4.png",Love After Lockup We TV
@@ -375,6 +373,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5807.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63c1ec0e0aa23f984207af82.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66ea085d9502c5778b828d41" tvg-name="FilmRise Free Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cde90a84-972c-49ea-baf2-941a657dbeea/FilmRise_FreeMovies_1500x1000_logo_light.png",FilmRise Free Movies
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ea085d9502c5778b828d41.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66ea0504c24d95b51b7cd189" tvg-name="FilmRise Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1965c90b-04e6-4124-bfc0-7a6226a8f0ab/FilmRise_Action_1500x1000_Light_Logo.png",FilmRise Action
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ea0504c24d95b51b7cd189.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63ec13cb290593c3fc279f48" tvg-name="Dance Moms by Lifetime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7f9a1355-d846-451c-a178-ac0fbc19bd18/DanceMoms-Channel-Logo-_All-White_-1500x1000px.png",Dance Moms by Lifetime
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63ec13cb290593c3fc279f48.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63d6f799a9e88ee909e7ee21" tvg-name="Alien Nation by DUST" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d5598a6-e100-4fab-979a-cbf775aa8aa7/Alien-Nation_logo_blue_1500x1000.png",Alien Nation by DUST
@@ -567,6 +567,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c" tvg-name="The Addams Family" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae901652-7714-41cd-8ff7-cb31fb07f6df/AddamsFamily_logo_Attribution_-_Carl_HoffelderRDX.png",The Addams Family
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" tvg-name="FilmRise Comedy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/91ac7a3c-8224-439f-83e9-f6c37eb186da/FilmRise_Comedy_1500x1000_Dark_Logo.png",FilmRise Comedy
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" tvg-name="Lone Star" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png",Lone Star
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820" tvg-name="Hard Knocks" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png",Hard Knocks
@@ -707,8 +709,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63e2ca44203bafbef831a152.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f123008d44f2871135a905" tvg-name="The Rifleman" tvg-logo="https://provider-static.plex.tv/epg/cms/production/879e9488-eb8c-4cc2-948a-f896c1326f94/FilmRise_TheRifleman_FullColor_LogoRDX.png",The Rifleman
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64f123008d44f2871135a905.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd" tvg-name="FilmRise Western" tvg-logo="https://provider-static.plex.tv/epg/cms/production/610a184b-f849-425a-bb35-463565a40db0/FilmRise_Western_1500x1000_Light_Logo.png",FilmRise Western
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63" tvg-name="INTER 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",INTER 24/7
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4" tvg-name="beIN SPORTS XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bc78162-f4bb-4276-8df3-85c13133df3f/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png",beIN SPORTS XTRA
@@ -801,6 +801,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-639baa971a12420ff66ae7b1.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be" tvg-name="FashionTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png",FashionTV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd" tvg-name="FilmRise Western" tvg-logo="https://provider-static.plex.tv/epg/cms/production/610a184b-f849-425a-bb35-463565a40db0/FilmRise_Western_1500x1000_Light_Logo.png",FilmRise Western
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41" tvg-name="Surfer TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",Surfer TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61ddcc6023daf618ed44c29f" tvg-name="Wanted: Dead or Alive" tvg-logo="https://provider-static.plex.tv/epg/cms/production/94c5a66f-c118-4d32-b8cf-fbed9e1dd454/WantedDeadorAlive_15000x1000_darkbgd.png",Wanted: Dead or Alive
@@ -891,8 +893,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64149a3c238e21f260e7844c.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6627ab12580825e8a7bc4f04.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-name="Choppertown" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/choppertown.png",Choppertown
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66ea0504c24d95b51b7cd189" tvg-name="FilmRise Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1965c90b-04e6-4124-bfc0-7a6226a8f0ab/FilmRise_Action_1500x1000_Light_Logo.png",FilmRise Action
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ea0504c24d95b51b7cd189.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6438ee5a83766488c3bc9d4d" tvg-name="Confess by Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0383307d-1dd5-46cc-8972-08fd5cc2e6d5/NoseyConfess_Logo_Color_Dark_1500x1000RDX.png",Confess by Nosey
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6438ee5a83766488c3bc9d4d.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64aed1e9c6085b5faf20ee1f" tvg-name="OUTFLIX MOVIES" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f95fc27d-0f98-4097-bce5-1ea35a0ce0f0/OUTflix-MOVIES_Logo_1500x1000.png",OUTFLIX MOVIES
@@ -957,8 +957,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62d15f16001c04178f555e40.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-682511d9ae4546e02a6ba4f9.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5802" tvg-name="FilmRise Concursos de Cocina" tvg-logo="https://provider-static.plex.tv/epg/cms/production/95e7d138-970f-4e30-b64f-8ed14b6282da/ConcursosDeCocina_1500x1000_Dark_Logo.png",FilmRise Concursos de Cocina
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5802.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6707d20ab87b5cf57ac33c95" tvg-name="Iron Chef en español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7e7e0544-7004-46ac-bea2-b21a2a7ab166/Plex_xumoTile_FilmRise_IronChefEnEspanol_logo_color_white_text.png",Iron Chef en español
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6707d20ab87b5cf57ac33c95.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5803" tvg-name="FilmRise Series Gratis" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ac25af2a-e4a5-45a1-a54c-715ab8718060/FilmRise_SeriesGratis_1500x1000_logo_light.png",FilmRise Series Gratis
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5803.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021" tvg-name="People are Awesome" tvg-logo="https://provider-static.plex.tv/epg/cms/production/72b8f0fc-fe7f-4a92-9881-866cfc043d94/people-are-awesome-2.png",People are Awesome
@@ -1009,6 +1007,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64fb9149bb3e0baa5dcc0944" tvg-name="Estrella Games" tvg-logo="https://provider-static.plex.tv/epg/cms/production/441e119d-ac86-4737-a8d0-1e60f60cfd43/Estrella-Games_-_Erick_Ramirez_COLOR.png",Estrella Games
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64fb9149bb3e0baa5dcc0944.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6707d20ab87b5cf57ac33c95" tvg-name="Iron Chef en español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7e7e0544-7004-46ac-bea2-b21a2a7ab166/Plex_xumoTile_FilmRise_IronChefEnEspanol_logo_color_white_text.png",Iron Chef en español
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6707d20ab87b5cf57ac33c95.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png",Fight Network
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-688d32e9a6fe30698ab42005" tvg-name="Vive Kanal D Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/edace34e-ac45-44b7-a562-265977557817/Vive_KDD_LOGO-DarkBG_-_Alejandro_N.png",Vive Kanal D Drama
@@ -1443,6 +1443,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-68e032fd8bbd79d66c631ab0.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-66469eecdad45e1759c1c06b.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-671ab65359ad9a223f0a5dc3" tvg-name="American Crime Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png",American Crime Channel
 https://jmp2.uk/plex-697140a85d851f5e69414688-671ab65359ad9a223f0a5dc3.m3u8
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6615360a8423b8d7e61a099c" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a08d8486-4874-42ed-b3c3-a2e5077d7f22/Crime_SceneTV_RDX_WHITE_GOOD.png",Crime Scene TV
+https://jmp2.uk/plex-697140a85d851f5e69414688-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-699df4b5c8471b688891fa3c" tvg-name="Tiny House Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/22609739-de99-47f8-80cc-02cd3f605d70/Tiny_House_Nation_Logo_STACKED_COLOR_RDX.png",Tiny House Nation
 https://jmp2.uk/plex-697140a85d851f5e69414688-699df4b5c8471b688891fa3c.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-67c2496d45ae99120c071588" tvg-name="Life Down Under" tvg-logo="https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png",Life Down Under
@@ -1793,8 +1795,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-621671d05abdd3d5556a1baf.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-654eb862dde2222e8ba551f1.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-606605549dbfca002d2ae877" tvg-name="Fight Network" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png",Fight Network
 https://jmp2.uk/plex-697140a85d851f5e69414688-606605549dbfca002d2ae877.m3u8
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6615360a8423b8d7e61a099c" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a08d8486-4874-42ed-b3c3-a2e5077d7f22/Crime_SceneTV_RDX_WHITE_GOOD.png",Crime Scene TV
-https://jmp2.uk/plex-697140a85d851f5e69414688-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6533e9b1df3ccc650a965646" tvg-name="Adventure Earth" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7e7eaa4b-57dd-43dd-80b7-55161ce05135/Adventure_Earth_ChannelLogo_White_1500x1000_Tilman.png",Adventure Earth
 https://jmp2.uk/plex-697140a85d851f5e69414688-6533e9b1df3ccc650a965646.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-688d3402a6fe30698ab42007" tvg-name="ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png",ITV Deportes
@@ -2729,6 +2729,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6683fcdf702b9db9f8177252.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-67c24d5a45ae99120c07158c.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-68645a8619cc2e163e38d161" tvg-name="Merli" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8e4cba66-9b4a-49e6-becf-bcfad804dcb9/MERLI_channel_logo_whiteRDX.png",Merli
 https://jmp2.uk/plex-643054b1fc3be59477853717-68645a8619cc2e163e38d161.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-685f25c1a7111a932d28f1ac" tvg-name="Todo Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c999a045-74ef-4a8d-991f-26b2867d00ef/TodoDrama_WHITERDX.png",Todo Drama
+https://jmp2.uk/plex-643054b1fc3be59477853717-685f25c1a7111a932d28f1ac.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-66840486cd6f1d3940941151" tvg-name="Runtime Familia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c0981fcf-6369-4c85-9a6e-09413be0911d/Runtime_ES_Familia_Attribution_Logordx.png",Runtime Familia
 https://jmp2.uk/plex-643054b1fc3be59477853717-66840486cd6f1d3940941151.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-69a1fe1b0f8d297b3f6ac0f0" tvg-name="Crímenes Reales" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6c848a12-7e7c-467e-937f-557dedcda9e4/Crimines_Logo_1500x1000_LightAndDark.png",Crímenes Reales
@@ -2745,6 +2747,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-656236cc5dbccec83a87b647.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-66ccac69fdf9cd3a568ef135.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-656237c55dbccec83a87b649" tvg-name="Mutant X" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png",Mutant X
 https://jmp2.uk/plex-643054b1fc3be59477853717-656237c55dbccec83a87b649.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52e549aa-1c71-4285-a47c-63be6a60aa54/FilmRise_SciFi_1500x1000_Light_Logo.png",FilmRise Sci-Fi
+https://jmp2.uk/plex-643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6490e17c18a55242eea95991" tvg-name="Cine Friki" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e8b55ca-ef52-42c6-8390-45b1561f3d15/CINE_FRIKI_-_Logo_blanc_1500x1000_-_JC_DERSOIR.png",Cine Friki
 https://jmp2.uk/plex-643054b1fc3be59477853717-6490e17c18a55242eea95991.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-66840707cd6f1d3940941153" tvg-name="Curro Jimenez" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69a3e9ee-ac42-4afd-970d-f8c7a7caad63/Runtime_ES_Curro_Jimenez_Dark_Mode_Logordx.png",Curro Jimenez
@@ -2799,8 +2803,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-6880001d015fe7e375a1a0a8.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-60089d97f682a3002c34829d.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-666e23e4d91d13cb4c8cbb79" tvg-name="Todo Crimen" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e6db5aa8-8c1d-48e0-9970-27a36702ba9e/TODO_CRIMEN_white__1_.png",Todo Crimen
 https://jmp2.uk/plex-643054b1fc3be59477853717-666e23e4d91d13cb4c8cbb79.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-685f25c1a7111a932d28f1ac" tvg-name="Todo Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c999a045-74ef-4a8d-991f-26b2867d00ef/TodoDrama_WHITERDX.png",Todo Drama
-https://jmp2.uk/plex-643054b1fc3be59477853717-685f25c1a7111a932d28f1ac.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-631bbc79a273cc38add9e5e1" tvg-name="FreeTV Clásico" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d7752fdc-4bdf-4671-823c-ab3295cf2ed8/Free-TV_Clasico_1500X1000_dark_and_light.png",FreeTV Clásico
 https://jmp2.uk/plex-643054b1fc3be59477853717-631bbc79a273cc38add9e5e1.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-66ea196ac24d95b51b7cd18b" tvg-name="wedo amor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a4765ad1-345e-4cb7-b6c5-3dc970e4d78e/Light_LogoWEDDO_AMOR_WHITE.png",wedo amor
@@ -2867,8 +2869,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-639ba57d3f4612cc150a5723.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-67a1a8ef2358ef4dd5c3018e.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-682d0bc9363625fa508aef43" tvg-name="Nature Time" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2264f961-88d5-46c6-a987-9d5dd7a15d69/NATURE_TIMEWHITE_LOGO.png",Nature Time
 https://jmp2.uk/plex-643054b1fc3be59477853717-682d0bc9363625fa508aef43.m3u8
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52e549aa-1c71-4285-a47c-63be6a60aa54/FilmRise_SciFi_1500x1000_Light_Logo.png",FilmRise Sci-Fi
-https://jmp2.uk/plex-643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-66841b30702b9db9f8177258" tvg-name="Runtime Clásicos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8019022a-2401-4d51-990c-fdf0f5ac1f54/Runtime_ES_Clasicos_Dark_Mode_Logordx.png",Runtime Clásicos
 https://jmp2.uk/plex-643054b1fc3be59477853717-66841b30702b9db9f8177258.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6334a8e48a7b2a349d903b8c" tvg-name="Billiard TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png",Billiard TV
@@ -3451,6 +3451,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6308eda9ac9983739c8a29bb.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6699937717c9985deeb74e39.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb" tvg-name="FilmRise Free Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15ec663b-70d0-450c-9cfa-c22eab2b1cd5/FilmRise_FreeMovies_1500x1000_logo_light.png",FilmRise Free Movies
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3" tvg-name="FilmRise Horror" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7765ddb-5cd7-4287-8d16-ea1171acb092/FilmRise_Horror_1500x1000_Light_Logo.png",FilmRise Horror
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69332df6ac5b3f9f53442370" tvg-name="FilmRise Black TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1cea00fe-27e9-4de3-95f5-5bdc80f62c04/channel_logo_1500x1000_WHT.png",FilmRise Black TV
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69332df6ac5b3f9f53442370.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-689fb7110a486aeba3c7917c" tvg-name="The Addams Family" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae901652-7714-41cd-8ff7-cb31fb07f6df/AddamsFamily_logo_Attribution_-_Carl_HoffelderRDX.png",The Addams Family
@@ -3579,8 +3581,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6533e27abd43e1c8b1865154.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a082f488-9d7e-4e89-be52-4b7e5c8d91d3/FilmRise_SciFi_1500x1000_Light_Logo.png",FilmRise Sci-Fi
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3" tvg-name="FilmRise Horror" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7765ddb-5cd7-4287-8d16-ea1171acb092/FilmRise_Horror_1500x1000_Light_Logo.png",FilmRise Horror
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-614398a08f30fa61e0da7c97" tvg-name="True History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png",True History
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-614398a08f30fa61e0da7c97.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-684c201a3496598cf4003fbc" tvg-name="PBS Travel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7498e884-3fc2-42a7-813d-8294e2ff22a6/PBS_Travel_Logo_Stacked_BLUEWhiteRDX.png",PBS Travel
@@ -3903,6 +3903,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5eea605474085f0040ddc767.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61aa97d4113e1e5137fd5325.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6674baf1a9c715b93ca6ca90" tvg-name="Unspeakable" tvg-logo="https://provider-static.plex.tv/epg/cms/production/557e2a37-20f0-4e1f-8dc5-b99cbebaa33e/FilmRise_Unspeakable_Color_LogoRDX.png",Unspeakable
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6674baf1a9c715b93ca6ca90.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-68db6b54475aa6420c85f230" tvg-name="FilmRise Creators" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf7b3f7d-f3d7-49e7-a2f6-f81ab380f737/FilmRise_Creators_1500x1000_Dark_Logo.png",FilmRise Creators
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68db6b54475aa6420c85f230.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5f91c4ea96a391002df9a661" tvg-name="pocket.watch Game-On" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b580b328-e44f-4554-bc2e-09f9fb7a2ee3/pocket.watchGame-On_Channel_Logo_Stacked_Color_1500x1000.png",pocket.watch Game-On
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5f91c4ea96a391002df9a661.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-688002cd996f1a2fb393a6e3" tvg-name="XITE Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b79c1102-0a7d-4310-a0df-6cbe6fb660e2/xitehits_logo_WHITE_-_Arlette_FiranRDX2.png",XITE Hits
@@ -4151,8 +4153,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67db3546d66f778a752f7eaa.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69153808ca8cd63ab14ece0d.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69333216ac5b3f9f53442374" tvg-name="Baby Einstein" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e757f7e3-f3de-46f5-b6e0-9aa42bdb61d1/BabyEinstein_logo_1500x1000_light.png.png",Baby Einstein
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69333216ac5b3f9f53442374.m3u8
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-68db6b54475aa6420c85f230" tvg-name="FilmRise Creators" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf7b3f7d-f3d7-49e7-a2f6-f81ab380f737/FilmRise_Creators_1500x1000_Dark_Logo.png",FilmRise Creators
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68db6b54475aa6420c85f230.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69814bbff871095eafc65925" tvg-name="Powernation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a9bf659f-df1c-4572-856c-5b60fbc93467/powernationWhite_Logo__2_.png",Powernation
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-69814bbff871095eafc65925.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-69b845bb8b510f5b7fff04b2" tvg-name="SLVR Sports and Entertainment (SLVR)" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/bee17a80ac9fa302e4aae1735393d727.png",SLVR Sports and Entertainment (SLVR)
@@ -4201,6 +4201,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-6490e06718a55242eea9598f.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-69a1f7228d9f2822f6f50637.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-6760d828ba503b54def4afd2" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f859f96d-c7e2-48f7-ac08-9e2fdd166432/ZNation_Channel_Logo_White.png",Z Nation
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-6760d828ba503b54def4afd2.m3u8
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c870" tvg-name="FilmRise Série Populaire" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc0951e8-548c-48ef-afcd-82d7eca657c0/Plex_FilmRise_S__ries_Color_Logo.png",FilmRise Série Populaire
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c870.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-69f4f6c2647c1d14cc38677b" tvg-name="NFL Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png",NFL Channel
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-69f4f6c2647c1d14cc38677b.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-66ccac69fdf9cd3a568ef135" tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png",UFC
@@ -4217,8 +4219,6 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c871.m3u8
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-678fe7959407a53556d3e8eb.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59" tvg-name="Alerte à Malibu TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb65dea3-d6c1-403e-830f-361a01204fa1/All_White_Alerte-A-Malibu.png",Alerte à Malibu TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59.m3u8
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c870" tvg-name="FilmRise Série Populaire" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc0951e8-548c-48ef-afcd-82d7eca657c0/Plex_FilmRise_S__ries_Color_Logo.png",FilmRise Série Populaire
-https://jmp2.uk/plex-6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c870.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-666340ce76ca410aa18e705b" tvg-name="FIFA+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a659b1ed-e1a2-481c-bd77-ef4e57d8088f/FIFA__Logo_Rectangle_1500x1000_WHT.png",FIFA+
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-666340ce76ca410aa18e705b.m3u8
 #EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281" tvg-name="Les filles d’à côtés TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8bb7c0f6-b0d3-447f-afaa-0afe20691452/Logo_suitable_for_dark_backgrounds_Les-Filles-d_a-cote.png",Les filles d’à côtés TV
@@ -5055,6 +5055,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-60d4edd8b2fdec002c14112f.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-66bfb2e6144c201b8b61c10f.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-671ab65359ad9a223f0a5dc3" tvg-name="American Crime Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png",American Crime Channel
 https://jmp2.uk/plex-64305451fc3be5947773c339-671ab65359ad9a223f0a5dc3.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6615360a8423b8d7e61a099c" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a08d8486-4874-42ed-b3c3-a2e5077d7f22/Crime_SceneTV_RDX_WHITE_GOOD.png",Crime Scene TV
+https://jmp2.uk/plex-64305451fc3be5947773c339-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-621672e42c2627c068e73ad8" tvg-name="Galxy TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png",Galxy TV
 https://jmp2.uk/plex-64305451fc3be5947773c339-621672e42c2627c068e73ad8.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-5f0641d3e8ffda004033b16e" tvg-name="The Design Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png",The Design Network
@@ -5095,8 +5097,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-62ffc5cfa6cad6f2991745c2.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-68e0388d8bbd79d66c631ab4.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-656fbbd6dbcce28c3a41741b" tvg-name="Surf Cinema" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",Surf Cinema
 https://jmp2.uk/plex-64305451fc3be5947773c339-656fbbd6dbcce28c3a41741b.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6615360a8423b8d7e61a099c" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a08d8486-4874-42ed-b3c3-a2e5077d7f22/Crime_SceneTV_RDX_WHITE_GOOD.png",Crime Scene TV
-https://jmp2.uk/plex-64305451fc3be5947773c339-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-5f0ff263d71dcb00449ec021" tvg-name="People are Awesome" tvg-logo="https://provider-static.plex.tv/epg/cms/production/72b8f0fc-fe7f-4a92-9881-866cfc043d94/people-are-awesome-2.png",People are Awesome
 https://jmp2.uk/plex-64305451fc3be5947773c339-5f0ff263d71dcb00449ec021.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-68b9f334fc12601028c5651e" tvg-name="World Billiards TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55d069fe-0219-447a-a712-e3ecaed26241/_Plex__WBT_Logo_Dark_Mode.png",World Billiards TV
