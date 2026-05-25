@@ -47,8 +47,8 @@ for i in channellist:
             stop = datetime.fromtimestamp(stopepoch)
             prog = ET.SubElement(root, 'programme')
             prog.set('channel', epgid)
-            prog.set('start', start.strftime('%Y%m%d%H%M%S +0530'))
-            prog.set('stop', stop.strftime('%Y%m%d%H%M%S +0530'))
+            prog.set('start', start.strftime('%Y%m%d%H%M%S +0000'))
+            prog.set('stop', stop.strftime('%Y%m%d%H%M%S +0000'))
             prog.set('catchup-id', prg['id'])
             title = prg['title']
             if 'desc' in prg:
