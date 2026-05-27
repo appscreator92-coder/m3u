@@ -40,8 +40,6 @@ https://mci01.nive.live/13/index.m3u8
 #EXTINF:-1 tvg-id="wlfm" tvg-name="Whiplash FM" tvg-logo="https://webchnl.com/assets/img/channelicons/whiplashfm.png" group-title="webchnl" radio="true",Whiplash FM
 https://drop.oqua.tv/listen/wlfm/radio.mp3
 #EXTINF:-1 tvg-id="yub" tvg-name="Yub Network" tvg-logo="https://webchnl.com/assets/img/channelicons/yub.png" group-title="webchnl",Yub Network
-https://stream.oqua.tv/live/Yub/master.m3u8
-#EXTINF:-1 tvg-id="yub" tvg-name="Yub Network" tvg-logo="https://webchnl.com/assets/img/channelicons/yub.png" group-title="webchnl",Yub Network (nive.live)
 https://mci01.nive.live/17/index.m3u8
 #EXTINF:-1 tvg-id="znth" tvg-name="zén!th" tvg-logo="https://webchnl.com/assets/img/channelicons/zenith.png" group-title="webchnl",zén!th
 https://live.azenagroup.com/zenith/index.m3u8
@@ -55,9 +53,7 @@ https://haus.webchnl.com/placid/index.m3u8
 https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="dijit" tvg-name="DIJIT / Joy.Rebel" tvg-logo="https://webchnl.com/assets/img/channelicons/dijit.png" group-title="webchnl",DIJIT / Joy.Rebel
 https://mci01.nive.live/9/index.m3u8
-#EXTINF:-1 tvg-id="cnextras" tvg-name="CN/Toonami Extras" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/cnextras.png" group-title="webchnl",CN/Toonami Extras
-https://twitch-m3u8.bastypro112.workers.dev/backupextras/index.m3u8
-#EXTINF:-1 tvg-id="cnextras" tvg-name="CN/Toonami Extras" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/cnextras.png" group-title="webchnl",CN/Toonami Extras (nive.live)
+#EXTINF:-1 tvg-id="cnextras" tvg-name="CN/Toonami Extras" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/cnextras.png" group-title="webchnl",CN/Toonami Extra
 https://mci01.nive.live/8/index.m3u8
 #EXTINF:-1 tvg-id="boomerangreborn" tvg-name="Boomerang Reborn" tvg-logo="https://file.garden/aVld1TSOlQ1xao-b/boomerangreborn.png" group-title="webchnl",Boomerang Reborn
 https://twitch-m3u8.bastypro112.workers.dev/boomerangrebornalt/index.m3u8
