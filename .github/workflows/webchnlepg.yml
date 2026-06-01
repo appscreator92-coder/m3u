@@ -1,8 +1,8 @@
-name: Generate Whiplash EPG
+name: Generate webchnl EPG
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes, starting at 0.1 minutes past the hour
+    - cron: '0 */4 * * *'  # Runs every 2 hours
   push:
     branches:
       - main  # Runs on push to the main branch
