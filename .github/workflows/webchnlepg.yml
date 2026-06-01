@@ -28,7 +28,7 @@ jobs:
           pip install urllib3
 
       - name: Run script
-        run: "python ./scripts/whiplashepg.py"
+        run: "python ./scripts/webchnlepg.py"
 
       - name: Commit changes if any
         run: |
