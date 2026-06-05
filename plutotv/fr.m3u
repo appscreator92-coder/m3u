@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
-#EXTINF:-1 tvg-id="692ec71425eaa17b6daf2a11" tvg-name="PJ" tvg-logo="https://images.pluto.tv/channels/692ec71425eaa17b6daf2a11/colorLogoPNG_1778222500950.png",PJ
-https://jmp2.uk/plu-692ec71425eaa17b6daf2a11.m3u8
+#EXTINF:-1 tvg-id="691b332aa4385c191ee44b57" tvg-name="Rex, chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png",Rex, chien flic
+https://jmp2.uk/plu-691b332aa4385c191ee44b57.m3u8
 #EXTINF:-1 tvg-id="69b3db536c0414a7ecf564fb" tvg-name="Space Live" tvg-logo="https://images.pluto.tv/channels/69b3db536c0414a7ecf564fb/colorLogoPNG_1775061732639.png",Space Live
 https://jmp2.uk/plu-69b3db536c0414a7ecf564fb.m3u8
 #EXTINF:-1 tvg-id="69c2ae0d1f1accd54916c825" tvg-name="Pluto TV Footanim'" tvg-logo="https://images.pluto.tv/channels/69c2ae0d1f1accd54916c825/colorLogoPNG_1776860789196.png",Pluto TV Footanim'
@@ -13,6 +13,8 @@ https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
 https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 #EXTINF:-1 tvg-id="684bf01df7d8b74b625b7dd1" tvg-name="Pluto TV Brigade Criminelle" tvg-logo="https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/colorLogoPNG_1753890939606.png",Pluto TV Brigade Criminelle
 https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
+#EXTINF:-1 tvg-id="692ec71425eaa17b6daf2a11" tvg-name="PJ" tvg-logo="https://images.pluto.tv/channels/692ec71425eaa17b6daf2a11/colorLogoPNG_1778222500950.png",PJ
+https://jmp2.uk/plu-692ec71425eaa17b6daf2a11.m3u8
 #EXTINF:-1 tvg-id="66d71ff86b63480008cf15c5" tvg-name="Flashpoint" tvg-logo="https://images.pluto.tv/channels/66d71ff86b63480008cf15c5/colorLogoPNG.png",Flashpoint
 https://jmp2.uk/plu-66d71ff86b63480008cf15c5.m3u8
 #EXTINF:-1 tvg-id="66f55a9a747bfa0008521859" tvg-name="Blue Bloods" tvg-logo="https://images.pluto.tv/channels/66f55a9a747bfa0008521859/colorLogoPNG.png",Blue Bloods
