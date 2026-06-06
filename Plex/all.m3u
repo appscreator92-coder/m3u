@@ -1367,8 +1367,6 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-68894c4890f994b93a68c1b0.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-68800f0c4033a6a442ad923d.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc705daa2236e002d69f108" tvg-name="Stingray Karaoke" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/fa59a795c6c71d529187195b38114659.png",Stingray Karaoke
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5fc705daa2236e002d69f108.m3u8
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-639ba57d3f4612cc150a5723" tvg-name="Pitufo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png",Pitufo TV
-https://jmp2.uk/plex-6a1610bebdf296985fd95603-639ba57d3f4612cc150a5723.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-65b1568052aa31b8f64da064" tvg-name="C4 en Alerta" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",C4 en Alerta
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-65b1568052aa31b8f64da064.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-621674f168c966be92737ce6" tvg-name="El Conflicto TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",El Conflicto TV
@@ -1391,6 +1389,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-666e2178d91d13cb4c8cbb75.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-64a355697d24564fba37bab8.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-630fa9e577ec3866def38fa2" tvg-name="Women's Sports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png",Women's Sports Network
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-630fa9e577ec3866def38fa2.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6a16eb29c699bd41112bb703" tvg-name="Pitufo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5c6efe9-c6ac-46d8-908d-affc94beefc0/pitufotv_logo_dark_-_Jordan_Warkol.png",Pitufo TV
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a16eb29c699bd41112bb703.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-68dcb9f59beaa3a402966db8" tvg-name="Hell's Kitchen" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dbfb2f5c-2f61-4bc6-a6ce-ba692926421f/HellsKitchen_Logo_White_1500X1000.png",Hell's Kitchen
 https://jmp2.uk/plex-697140a85d851f5e69414688-68dcb9f59beaa3a402966db8.m3u8
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-6623c335ed4918437ed56ec0" tvg-name="The Wicked Tuna Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/07609811-826b-4726-a471-1c009b77fdeb/WickedTuna_Logo_Blue_1500x1000_-_Chris_Connors.png",The Wicked Tuna Channel
