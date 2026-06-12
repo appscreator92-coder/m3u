@@ -317,8 +317,6 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-62d1a58e520656fda09e609d.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-652a8b001b5c74bc83cf727c.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6582a1316b91be4547aa153c" tvg-name="Hot Ones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png",Hot Ones
 https://jmp2.uk/plex-64305451fc3be5947773c339-6582a1316b91be4547aa153c.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-63584a0cf8e2be1350f802a4" tvg-name="Real Wild" tvg-logo="https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png",Real Wild
-https://jmp2.uk/plex-64305451fc3be5947773c339-63584a0cf8e2be1350f802a4.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-64e43b37200cd2f67473e0d4" tvg-name="True Crime Now" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f5bb066-e3be-497a-8efd-b6b1cccdefcf/true_crime_now_logo.png",True Crime Now
 https://jmp2.uk/plex-64305451fc3be5947773c339-64e43b37200cd2f67473e0d4.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6616cbcc0360e123d9f3f366" tvg-name="Highway Thru Hell" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d8e643e3-b9ca-4fd8-bcd2-1321a1f91df5/HighwayThruHell_Logo_White_1500x1000_-_Harry_Marshall.png",Highway Thru Hell
@@ -721,3 +719,5 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-64d4e82ac5d4668c9cb7b5df.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-69d6d88b1790acff6189dea5.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a10994ab05301ef36a6a8e2" tvg-name="NFL Super Bowl Champions" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ecd94149-87df-46a3-8864-545c91f2d9d1/NFLSuperBowlChampions_Logo_White_1500x1000_-_Harry_Marshall.png",NFL Super Bowl Champions
 https://jmp2.uk/plex-64305451fc3be5947773c339-6a10994ab05301ef36a6a8e2.m3u8
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-6a1609442476ab8600b1841c" tvg-name="Real Wild" tvg-logo="https://provider-static.plex.tv/epg/cms/production/482fe1d5-fb01-416a-857e-ffbf8b6c8cc8/RealWild_Logo_White_-_Simon_Tuquabo.png",Real Wild
+https://jmp2.uk/plex-64305451fc3be5947773c339-6a1609442476ab8600b1841c.m3u8
