@@ -25,8 +25,6 @@ https://jmp2.uk/plu-696e024a7e92438c27a425a8.m3u8
 https://jmp2.uk/plu-66ed3e9d5e4a6e0008b346e0.m3u8
 #EXTINF:-1 tvg-id="685aa802fb6023de7cc56357" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/685aa802fb6023de7cc56357/colorLogoPNG_1750772661273.png",Dominance FC TV
 https://jmp2.uk/plu-685aa802fb6023de7cc56357.m3u8
-#EXTINF:-1 tvg-id="6882521ac258734a42a60ed0" tvg-name="DP World Tour" tvg-logo="https://images.pluto.tv/channels/6882521ac258734a42a60ed0/colorLogoPNG_1753371278188.png",DP World Tour
-https://jmp2.uk/plu-6882521ac258734a42a60ed0.m3u8
 #EXTINF:-1 tvg-id="6627621d56fc840008e47c90" tvg-name="Tennis Channel" tvg-logo="https://images.pluto.tv/channels/6627621d56fc840008e47c90/colorLogoPNG_1756973184696.png",Tennis Channel
 https://jmp2.uk/plu-6627621d56fc840008e47c90.m3u8
 #EXTINF:-1 tvg-id="66fd37885049580008d295b6" tvg-name="AWSN" tvg-logo="https://images.pluto.tv/channels/66fd37885049580008d295b6/colorLogoPNG_1748590960405.png",AWSN
@@ -229,10 +227,10 @@ https://jmp2.uk/plu-65a7af553af63d000828acca.m3u8
 https://jmp2.uk/plu-5bd833b41843b56328bac189.m3u8
 #EXTINF:-1 tvg-id="656df599c0fc8800089c75ab" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png",Avatar
 https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
-#EXTINF:-1 tvg-id="62ac50e92c48f900071444c9" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/62ac50e92c48f900071444c9/colorLogoPNG.png",Auction Hunters
-https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
 #EXTINF:-1 tvg-id="690dc8ed1ee9b6ac66607ce2" tvg-name="America's Funniest Home Videos" tvg-logo="https://images.pluto.tv/channels/690dc8ed1ee9b6ac66607ce2/colorLogoPNG_1767781622486.png",America's Funniest Home Videos
 https://jmp2.uk/plu-690dc8ed1ee9b6ac66607ce2.m3u8
+#EXTINF:-1 tvg-id="62ac50e92c48f900071444c9" tvg-name="Auction Hunters" tvg-logo="https://images.pluto.tv/channels/62ac50e92c48f900071444c9/colorLogoPNG.png",Auction Hunters
+https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
 #EXTINF:-1 tvg-id="672cb91149c40600081cbee5" tvg-name="Whose Line Is It Anyway?" tvg-logo="https://images.pluto.tv/channels/672cb91149c40600081cbee5/colorLogoPNG_1772035532114.png",Whose Line Is It Anyway?
 https://jmp2.uk/plu-672cb91149c40600081cbee5.m3u8
 #EXTINF:-1 tvg-id="5dc2c00abfed110009d97243" tvg-name="Pluto TV Sherlock" tvg-logo="https://images.pluto.tv/channels/5dc2c00abfed110009d97243/colorLogoPNG.png",Pluto TV Sherlock
@@ -371,10 +369,10 @@ https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
 https://jmp2.uk/plu-62ac405b3874370007419b7f.m3u8
 #EXTINF:-1 tvg-id="664c94e80120f40008b860f0" tvg-name="POP" tvg-logo="https://images.pluto.tv/channels/664c94e80120f40008b860f0/colorLogoPNG.png",POP
 https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
-#EXTINF:-1 tvg-id="68b5a97fc8ef6afa31138718" tvg-name="The Smurfs" tvg-logo="https://images.pluto.tv/channels/68b5a97fc8ef6afa31138718/colorLogoPNG_1760380526292.png",The Smurfs
-https://jmp2.uk/plu-68b5a97fc8ef6afa31138718.m3u8
 #EXTINF:-1 tvg-id="697a2f8b3991484f03064614" tvg-name="Super Mario Bros." tvg-logo="https://images.pluto.tv/channels/697a2f8b3991484f03064614/colorLogoPNG_1770830195618.png",Super Mario Bros.
 https://jmp2.uk/plu-697a2f8b3991484f03064614.m3u8
+#EXTINF:-1 tvg-id="68b5a97fc8ef6afa31138718" tvg-name="The Smurfs" tvg-logo="https://images.pluto.tv/channels/68b5a97fc8ef6afa31138718/colorLogoPNG_1760380526292.png",The Smurfs
+https://jmp2.uk/plu-68b5a97fc8ef6afa31138718.m3u8
 #EXTINF:-1 tvg-id="694178a8026be6e9d3ea7d7a" tvg-name="Mona The Vampire" tvg-logo="https://images.pluto.tv/channels/694178a8026be6e9d3ea7d7a/colorLogoPNG_1767865545603.png",Mona The Vampire
 https://jmp2.uk/plu-694178a8026be6e9d3ea7d7a.m3u8
 #EXTINF:-1 tvg-id="64c37e710e086a0009e824ab" tvg-name="That's 70s" tvg-logo="https://images.pluto.tv/channels/64c37e710e086a0009e824ab/colorLogoPNG_1771232729979.png",That's 70s

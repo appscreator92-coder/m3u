@@ -89,10 +89,10 @@ https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
 https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
 #EXTINF:-1 tvg-id="6357f3de3643ba0007bc0b50" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png",Pluto TV Sport
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
-#EXTINF:-1 tvg-id="6405d444d200410008009419" tvg-name="BET25 LIVE" tvg-logo="https://images.pluto.tv/channels/6405d444d200410008009419/colorLogoPNG.png",BET25 LIVE
-https://jmp2.uk/plu-6405d444d200410008009419.m3u8
 #EXTINF:-1 tvg-id="675c0762f433320008707f68" tvg-name="BET25 Live+" tvg-logo="https://images.pluto.tv/channels/675c0762f433320008707f68/colorLogoPNG.png",BET25 Live+
 https://jmp2.uk/plu-675c0762f433320008707f68.m3u8
+#EXTINF:-1 tvg-id="6405d444d200410008009419" tvg-name="BET25 LIVE" tvg-logo="https://images.pluto.tv/channels/6405d444d200410008009419/colorLogoPNG.png",BET25 LIVE
+https://jmp2.uk/plu-6405d444d200410008009419.m3u8
 #EXTINF:-1 tvg-id="6618f54baec96800081525ec" tvg-name="Pluto TV Håndbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png",Pluto TV Håndbold Live
 https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
 #EXTINF:-1 tvg-id="68dfa431cc3c6cd904053100" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png",Pluto TV Håndbold Highlights
@@ -133,8 +133,6 @@ https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8
 https://jmp2.uk/plu-65c33fd4dc10a40008f26af8.m3u8
 #EXTINF:-1 tvg-id="6177f8fdef21ab0007332b53" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/6177f8fdef21ab0007332b53/colorLogoPNG.png",World Poker Tour
 https://jmp2.uk/plu-6177f8fdef21ab0007332b53.m3u8
-#EXTINF:-1 tvg-id="668e5f2bcd0d3100080f6952" tvg-name="Triton Poker" tvg-logo="https://images.pluto.tv/channels/668e5f2bcd0d3100080f6952/colorLogoPNG.png",Triton Poker
-https://jmp2.uk/plu-668e5f2bcd0d3100080f6952.m3u8
 #EXTINF:-1 tvg-id="66c870112630fc0008137ae2" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/66c870112630fc0008137ae2/colorLogoPNG.png",PGA TOUR
 https://jmp2.uk/plu-66c870112630fc0008137ae2.m3u8
 #EXTINF:-1 tvg-id="671b4dc049c4060008f91d3a" tvg-name="Horse & Country" tvg-logo="https://images.pluto.tv/channels/671b4dc049c4060008f91d3a/colorLogoPNG.png",Horse & Country
